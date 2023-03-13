@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App">
-    <h1>Choose a tip </h1>
+    <h1> Are you sad? </h1>
     <p className="App"> {tips} </p>
       <button onClick={fetchTips} className="App">New Tip</button>
     </div>
